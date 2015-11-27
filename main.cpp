@@ -1,3 +1,17 @@
+/**
+ *
+ * Program implements diffusion algorithm
+ *
+ * Author: 	Patryk Zabkiewicz
+ * Date: 	04.09.2011
+ * Email: 	pzabkiewicz@gmail.com
+ *
+ * This software is distributed as is. NO WARRANTY provided.
+ *
+ * Licensed under GPL 3.0
+ *
+*/
+
 
 #include "cv.h"
 #include "highgui.h"
